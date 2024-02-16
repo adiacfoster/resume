@@ -1,8 +1,31 @@
-html {
+* {
     background-color:aliceblue;
     color: darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a {
     color:cornflowerblue;
+    text-align: center;
+}
+
+.job-title {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+img {
+    align-items: center;
+}
+
+.image {
+    text-align: center;
 }

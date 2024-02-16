@@ -6,7 +6,6 @@
 
 a {
     color:cornflowerblue;
-    text-align: center;
 }
 
 .job-title {
@@ -27,5 +26,9 @@ img {
 }
 
 .image {
+    text-align: center;
+}
+
+#links {
     text-align: center;
 }

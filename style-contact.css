@@ -2,10 +2,14 @@
     text-align: center;
     background-color:aliceblue;
     color: darkslateblue;
-    font-family: Tahoma, sans-serif;
+    font-family: "Noto Serif", serif;
     font-weight: bold;
 }
 
 a {
     color:cornflowerblue;
+}
+
+h1 {
+    font-family: "Petit Formal Script", cursive;
 }
